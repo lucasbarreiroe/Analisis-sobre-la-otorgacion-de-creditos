@@ -1,3 +1,5 @@
 # TP_Equidad
-Grupo 4 (Equidad en Aprendizaje Automático)
-Integrantes: Lucas Gaziglia, Agustin Viullet y Lucas Barreiro
+Grupo 4 (Equidad en Aprendizaje Automático) 
+/n
+
+Integrantes: Lucas **Barreiro**, Luca **Gaziglia** y Agustín **Viullet**
